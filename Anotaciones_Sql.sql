@@ -3,7 +3,6 @@ Set lines 10000 pages 50000 colsep '|'  null null
 
 #Cofiguracion de fecha
 alter session set nls_date_format='dd/mm/yyyy hh24:mi:ss';
-
 alter session set nls_date_format='dd/mm/yyyy';
 
 #Validar formato
