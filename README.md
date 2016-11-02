@@ -1,6 +1,7 @@
 # PL-SQL
 Oracle SQL Examples
 
+- **Anotaciones_Sql.sql** Notas de Arquitectura de BBDD y Querys en general. 
 - **Clientes.txt** Son los datos que se van a cargar en la BBDD, la data.
 - **Create_Clientes.sql** Es la creacion de la tabla.
 - **Clientes.ctl** Archivo de cofiguracion de los parametros en la BBDD _Simple!!_
