@@ -46,6 +46,22 @@ SELECT tablespace_name, largest_free_chunk
                 GROUP BY tablespace_name )
  WHERE tablespace_name = fs_ts_name
  ORDER BY pct_free ;
+ 
+ #Imprime Table espace especifico con espacios disponibles
+  SELECT df.tablespace_name,
+   df.file_name,
+   df.bytes/1024 Allocated_kb,
+   free.free_kb,
+   Round(free.free_kb/(df.bytes/1024)*100) Percent_Free
+FROM
+   dba_data_files df,
+   (SELECT file_id, SUM(bytes)/1024 free_kb
+    FROM dba_free_space GROUP BY file_id) free
+WHERE
+   df.file_id=free.file_id
+   AND df.tablespace_name='TABLE_SPACE'
+ORDER BY
+   Percent_Free;
 
 #Lista todos los Table Space de la BBDD
 select tablespace_name from dba_tablespaces;
