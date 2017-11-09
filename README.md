@@ -1,6 +1,7 @@
 # PL-SQL
 Oracle SQL Examples
 
+- **Buscar_Tabla_Oracle.sql** Hacer busquedas de tablas por nombre incompleto de la misma
 - **Anotaciones_Sql.sql** Notas de Arquitectura de BBDD y Querys en general. 
 - **Clientes.txt** Son los datos que se van a cargar en la BBDD, la data.
 - **Consultas_Utiles.sql** Consultas sobre la infraestructura de DB 
