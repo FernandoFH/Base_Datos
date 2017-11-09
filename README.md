@@ -8,6 +8,7 @@ Oracle SQL Examples
 - **Clientes.ctl** Archivo de cofiguracion de los parametros en la BBDD _Simple!!_
 - **Listar_Tablas.sql** Consultas sobres las tablas de BD de Oracle 
 
+
 - Se ejecuta desde consola con el siguiente formato:
 
 sqlldr user/pass control=/home/CTLs/Clientes.ctl DATA=/home/txtin/Clientes.txt log=/home/LOGs/logs.log bad=/home/txtout/err.bad rows=5000 errors=99999
