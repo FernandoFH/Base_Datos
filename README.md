@@ -8,3 +8,4 @@ Oracle SQL Examples
 - **Create_Clientes.sql** Es la creacion de la tabla.
 - **Clientes.ctl** Archivo de cofiguracion de los parametros en la BBDD _Simple!!_
 - **Listar_Tablas.sql** Consultas sobres las tablas de BD de Oracle 
+- **Select_ppcs_diameter.sh**
