@@ -1,5 +1,4 @@
 #Cofiguracion de entorno
-
 Set lines 10000 pages 50000 colsep '|'  null null
 
 #Cofiguracion de fecha
