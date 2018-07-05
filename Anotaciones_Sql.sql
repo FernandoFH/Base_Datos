@@ -83,10 +83,7 @@ SELECT REGEXP_SUBSTR('XXXX-jjjjjjjjjjjj-uuuuu-kkk-llll','[^-]+',1,4) AS REG FROM
 ##  REG
 ##  ---
 ##  kkk
-##
 SELECT REGEXP_SUBSTR('XXXX-jjjjjjjjjjjj-uuuuu-kkk-llll','[^-]+',1,5) AS REG FROM DUAL;
-##
 ##  REG
 ##  ----
 ##  llll
-##
