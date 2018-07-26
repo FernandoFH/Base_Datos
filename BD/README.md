@@ -12,11 +12,11 @@
 - Oracle
 
 #### Algunas Bases de Datos Relacionales comunes:
-- _MariaDB:_ Es una distribución de Bases de Datos que deriva de MySQL.
-- _PostrgreSQL:_ Esta es una Base de Datos comunitaria pero tiene una versión entreprise que tiene soporte.
+- MariaDB: Es una distribución de Bases de Datos que deriva de MySQL.
+- PostrgreSQL: Esta es una Base de Datos comunitaria pero tiene una versión entreprise que tiene soporte.
 
 #### Algunas Bases de Datos No Relacionales comunes:
-- _Redis:_ Una Base de Datos que en la actualidad se trabaja mucho.
-- _neo4j:_ Es una Base de Datos basada en nodos. Está centrada en grafos que nos va a permitir encontrar relaciones entre objetos. Muy común en eCommerce.
-- _Cassandra:_ Es una Base de Datos muy importante del proyecto Apache. Trabaja con grandes volúmenes de datos.
-- _MongoDB:_ Es una Base de Datos en NoSQL que se basa en trabajar en varias instancias.
+- Redis: Una Base de Datos que en la actualidad se trabaja mucho.
+- neo4j: Es una Base de Datos basada en nodos. Está centrada en grafos que nos va a permitir encontrar relaciones entre objetos. Muy común en eCommerce.
+- Cassandra: Es una Base de Datos muy importante del proyecto Apache. Trabaja con grandes volúmenes de datos.
+- MongoDB: Es una Base de Datos en NoSQL que se basa en trabajar en varias instancias.
