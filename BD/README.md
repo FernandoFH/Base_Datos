@@ -1,8 +1,7 @@
-**Curso de Fundamentos de Bases de Datos Platzi **
+## Curso de Fundamentos de Bases de Datos Platzi
+#### Tipos de Bases de Datos y sus aplicaciones en la industria:
 
-- Tipos de Bases de Datos y sus aplicaciones en la industria:
-
-- Las Bases de Datos se pueden dividir en:
+#### Las Bases de Datos se pueden dividir en:
 
 * Bases de Datos Relacionales
 * Bases de Datos no Relacionales
