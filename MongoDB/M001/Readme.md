@@ -11,3 +11,9 @@
   - Document 
 - Basic Queries
 - Json basics
+
+#### Week 2 : The MongoDB Query Language + Atlas
+- Introduction to CRUD 
+- Installing the mongo Shell
+- Create an Atlas Sandbox Cluster
+- Connecting to Your Sandbox Cluster from the mongo Shell
