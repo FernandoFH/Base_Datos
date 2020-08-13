@@ -1,4 +1,2 @@
-### Libro en español para diseñar con SQL o NoSQL 
+### Base de datos SQL o NoSQL 
 
-#### Cuando usar cada una 
-#### 
