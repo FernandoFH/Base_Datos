@@ -1,5 +1,4 @@
 ## Base de datos
----- 
 
 ### SQL 
   - https://www.edx.org/course/modeling-and-theory
