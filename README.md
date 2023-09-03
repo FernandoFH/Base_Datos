@@ -8,5 +8,5 @@
   
 ### NoSQL 
   - [MongoDB](./MongoDB/Readme.md)
-  - [Redis](./redis/Readme.md)
+  - [Redis](./redis/README.md)
 
